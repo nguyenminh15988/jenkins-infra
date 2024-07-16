@@ -53,3 +53,5 @@ Everytime you stop & start the ec2 instance you need to run from ec2 connect or 
 
 Happy CI/CD pipelines!!!
 
+## Note
+temporary disable key pem using SSM for more security
